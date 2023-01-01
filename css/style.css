@@ -7,6 +7,8 @@
     padding-top: 20px;
     padding-left: 20px;
     padding-right: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #dedede;
 }
 
 .hr-menu {
@@ -72,6 +74,8 @@
     display: flex;
     width: 50%;
     justify-content: space-between;
+    margin-bottom: 10px;
+    
 }
 
 .buttom-links nav ul{
