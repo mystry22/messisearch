@@ -62,4 +62,5 @@
 
 .settings:hover{
     background-color: #dedede;
+    cursor: pointer;
 }
