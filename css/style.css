@@ -41,6 +41,7 @@
     width: 85%;
     height: 25px;
     border: none;
+    margin-left: 20px;
 }
 .searchandothers input:focus{
     outline: none;
@@ -84,4 +85,6 @@
 .buttom-links a{
     text-decoration: none;
     color: #5f6368;
+    font-size: 14px;
+    font-family: Google Sans,arial,sans-serif;
 }
