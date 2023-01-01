@@ -13,6 +13,7 @@
 
     display: flex;
     justify-content: space-between;
+    margin-bottom: 50px;
 }
 
 .merge {
@@ -63,4 +64,24 @@
 .settings:hover{
     background-color: #dedede;
     cursor: pointer;
+}
+
+.buttom-links{
+    padding-left: 100px;
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+}
+
+.buttom-links nav ul{
+    list-style-type: none;
+}
+
+.buttom-links nav ul li{
+    display: inline;
+    margin-right: 10px;
+}
+.buttom-links a{
+    text-decoration: none;
+    color: #5f6368;
 }
