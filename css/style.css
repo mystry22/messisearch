@@ -92,3 +92,74 @@
     font-size: 14px;
     font-family: Google Sans,arial,sans-serif;
 }
+
+.search-top{
+    padding-left: 100px;
+    width: 90%;
+    margin: auto;
+}
+
+.about-search{
+    font-family: Google Sans,arial,sans-serif;
+    color:  #70757a;
+    margin-bottom: 30px;
+}
+
+.messi{
+    margin-top: 30px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.messi-name{
+   margin-right: 20px;
+}
+.my-name{
+    font-family: Google Sans,arial,sans-serif-medium,sans-serif;
+    font-size: 28px;
+    line-height: 36px;
+    color: #202124;
+}
+
+.messi-prof{
+    color: #5F6368;
+    display: inline-block;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin-right: 20px;
+}
+
+.top-buttons{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.overview-button{
+    height: 40px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: #E2EEFF;
+    border: 1px solid #0A84FF;
+    color: #0A84FF;
+    font-family: Google Sans,arial,sans-serif;
+    font-weight: bold;
+    margin-right: 8px;
+}
+
+.other-buttons{
+    height: 40px;
+    width: 75px;
+    border-radius: 50px;
+    background-color: #E2EEFF; 
+    color: #0A84FF;
+    font-family: Google Sans,arial,sans-serif;
+    font-weight: bold;
+    margin-right: 8px;
+    border: none;
+
+}
+
+.other-buttons:hover{
+    background-color: #92dff3;
+}
