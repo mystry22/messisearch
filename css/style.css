@@ -256,9 +256,10 @@
 
 .tittles{
     color: #202124;
-    font-size: 18px;
+    font-size: 14px;
     line-height: 24px;
-    font-family: arial,sans-serif
+    font-family: arial,sans-serif;
+    font-weight: 600;
 }
 
 .paragraphs{
@@ -266,8 +267,9 @@
     color: #4d5156;
     font-size: 14px;
     font-family: arial,sans-serif;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 .link{
     text-decoration: none;
+    color: #1a0dab;
 }
