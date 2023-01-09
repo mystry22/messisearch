@@ -24,7 +24,8 @@
     justify-content: space-between;
 
 }
-.campaign-holder{
+
+.campaign-holder {
     margin-top: 10px;
 }
 
@@ -45,15 +46,17 @@
     border: none;
     margin-left: 20px;
 }
-.searchandothers input:focus{
+
+.searchandothers input:focus {
     outline: none;
 }
-.google-section{
+
+.google-section {
     display: flex;
     justify-content: space-evenly;
 }
 
-.settings{
+.settings {
     height: 30px;
     width: 30px;
     padding: 5px;
@@ -64,160 +67,166 @@
     line-height: 40px;
 }
 
-.settings:hover{
+.settings:hover {
     background-color: #dedede;
     cursor: pointer;
 }
 
-.buttom-links{
+.buttom-links {
     padding-left: 150px;
     display: flex;
     width: 50%;
     justify-content: space-between;
     margin-bottom: 10px;
-    
+
 }
 
-.buttom-links nav ul{
+.buttom-links nav ul {
     list-style-type: none;
 }
 
-.buttom-links nav ul li{
+.buttom-links nav ul li {
     display: inline;
     margin-right: 10px;
 }
-.buttom-links a{
+
+.buttom-links a {
     text-decoration: none;
     color: #5f6368;
     font-size: 14px;
-    font-family: Google Sans,arial,sans-serif;
+    font-family: Google Sans, arial, sans-serif;
 }
 
-.search-top{
+.search-top {
     padding-left: 170px;
     width: 90%;
     margin: auto;
     margin-bottom: 30px;
 }
 
-.about-search{
-    font-family: Google Sans,arial,sans-serif;
-    color:  #70757a;
+.about-search {
+    font-family: Google Sans, arial, sans-serif;
+    color: #70757a;
     font-size: 14px;
 }
 
-.messi{
+.messi {
     margin-top: 30px;
     display: flex;
     justify-content: flex-start;
 }
 
-.messi-name{
-   margin-right: 20px;
+.messi-name {
+    margin-right: 20px;
 }
-.my-name{
-    font-family: Google Sans,arial,sans-serif-medium,sans-serif;
+
+.my-name {
+    font-family: Google Sans, arial, sans-serif-medium, sans-serif;
     font-size: 28px;
     line-height: 36px;
     color: #202124;
 }
 
-.messi-prof{
+.messi-prof {
     color: #5F6368;
     display: inline-block;
-    font-family: arial,sans-serif;
+    font-family: arial, sans-serif;
     font-size: 14px;
     margin-right: 20px;
 }
 
-.top-buttons{
+.top-buttons {
     display: flex;
     margin-left: 20px;
     margin-top: 10px;
 }
 
-.overview-button{
+.overview-button {
     height: 40px;
     width: 100px;
     border-radius: 50px;
     background-color: #E2EEFF;
     border: 1px solid #0A84FF;
     color: #0A84FF;
-    font-family: Google Sans,arial,sans-serif;
+    font-family: Google Sans, arial, sans-serif;
     font-weight: bold;
     margin-right: 8px;
 }
 
-.other-buttons{
+.other-buttons {
     height: 40px;
     width: 75px;
     border-radius: 50px;
-    background-color: #E2EEFF; 
+    background-color: #E2EEFF;
     color: #0A84FF;
-    font-family: Google Sans,arial,sans-serif;
+    font-family: Google Sans, arial, sans-serif;
     font-weight: bold;
     margin-right: 8px;
     border: none;
 
 }
 
-.other-buttons:hover{
+.other-buttons:hover {
     background-color: #92dff3;
 }
-.messi-assets{
+
+.messi-assets {
     padding-left: 170px;
     width: 90%;
     margin: auto;
     background-color: #E2EEFF;
     display: flex;
     justify-content: space-between;
-    
+
 }
 
-.first-credit{
+.first-credit {
     width: 50%;
     display: flex;
     height: 300px;
 }
-.rakutien{
+
+.rakutien {
     width: 50%;
     margin-right: 3px;
     height: 100%;
-    
+
 }
-.argentina{
+
+.argentina {
     display: flex;
     flex-direction: column;
     width: 50%;
-  
+
 }
 
-.format-img{
+.format-img {
     height: 100%;
     width: 50%;
     margin-bottom: 3px;
 }
 
-.format-rak-image{
+.format-rak-image {
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
 }
 
-.format-arg-image-top{
+.format-arg-image-top {
     border-top-right-radius: 10px;
 }
-.format-arg-image-bottom{
+
+.format-arg-image-bottom {
     border-bottom-right-radius: 10px;
 }
 
-.second-credit{
+.second-credit {
     width: 25%;
     border-radius: 10px;
     cursor: pointer;
-    
+
 }
 
-.heiage{
+.heiage {
     display: flex;
     flex-direction: column;
     margin-right: 10px;
@@ -231,77 +240,107 @@
 
 
 
-.messi-about{
+.messi-about {
     display: flex;
     width: 90%;
     margin: auto;
 }
 
-.messi-left{
+.messi-left {
     width: 150%;
 }
-.messi-pics{
+
+.messi-pics {
     padding-left: 100px;
     margin-bottom: 30px;
-    
+
 }
-.top-stories{
+
+.top-stories {
     padding-left: 100px;
+
 }
-.about-right{
+
+.about-right {
     width: 70%;
-    border-left: 1px #70757a solid ;
+    border-left: 1px #70757a solid;
     padding-left: 15px;
 }
 
-.tittles{
+.tittles {
     color: #202124;
     font-size: 14px;
     line-height: 24px;
-    font-family: arial,sans-serif;
+    font-family: arial, sans-serif;
     font-weight: 600;
 }
 
-.paragraphs{
+.paragraphs {
     line-height: 1.58;
     color: #4d5156;
     font-size: 14px;
-    font-family: arial,sans-serif;
+    font-family: arial, sans-serif;
     margin-bottom: 20px;
 }
-.link{
+
+.link {
     text-decoration: none;
     color: #1a0dab;
 }
 
-.top-stories-body{
+.top-stories-body {
     padding-left: 100px;
 }
-.top-stories-items{
+
+.top-stories-items {
     width: 100%;
     display: flex;
 }
 
-.top-stories-items-left{
+.top-stories-items-left {
     width: 50%;
     height: 250px;
     padding-right: 10px;
-}
-.top-stories-items-right{
-    width: 50%;
-}
-.were-porter{
-    width:100%;
-    height:180px;
-    border-radius: 10px;
-    
+    border-right: 1px #70757a solid;
+    padding-top: 10px;
+    margin-bottom: 10px;
+
 }
 
-.top-stories-links{
+.top-stories-items-right {
+    width: 50%;
+    padding: 10px;
+}
+
+.were-porter {
+    width: 100%;
+    height: 180px;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+.post-time {
+    color: #70757a;
+    line-height: 16px;
+    font-size: 14px;
+}
+
+.top-stories-links {
     text-decoration: none;
-    font-family: arial,sans-serif;
+    font-family: arial, sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
     color: #1a0dab;
+}
+.football-london{
+    display: flex;
+    padding: 10px;
+    border-top: 1px #70757a solid;
+}
+.stories-img{
+    border-radius: 10px;
+    height: 90px;
+    cursor: pointer;
 }
