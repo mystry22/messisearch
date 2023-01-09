@@ -97,12 +97,13 @@
     padding-left: 100px;
     width: 90%;
     margin: auto;
+    margin-bottom: 30px;
 }
 
 .about-search{
     font-family: Google Sans,arial,sans-serif;
     color:  #70757a;
-    margin-bottom: 30px;
+    font-size: 14px;
 }
 
 .messi{
@@ -162,4 +163,111 @@
 
 .other-buttons:hover{
     background-color: #92dff3;
+}
+.messi-assets{
+    padding-left: 100px;
+    width: 90%;
+    margin: auto;
+    background-color: #E2EEFF;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.first-credit{
+    width: 50%;
+    display: flex;
+    height: 300px;
+}
+.rakutien{
+    width: 50%;
+    margin-right: 3px;
+    height: 100%;
+    
+}
+.argentina{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+  
+}
+
+.format-img{
+    height: 100%;
+    width: 50%;
+    margin-bottom: 3px;
+}
+
+.format-rak-image{
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.format-arg-image-top{
+    border-top-right-radius: 10px;
+}
+.format-arg-image-bottom{
+    border-bottom-right-radius: 10px;
+}
+
+.second-credit{
+    width: 25%;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+
+.heiage{
+    display: flex;
+    flex-direction: column;
+    margin-right: 10px;
+
+}
+
+
+
+
+
+
+
+
+.messi-about{
+    display: flex;
+    width: 90%;
+    margin: auto;
+}
+
+.messi-left{
+    width: 160%;
+}
+.messi-pics{
+    padding-left: 50px;
+    margin-bottom: 30px;
+    
+}
+.top-stories{
+    padding-left: 50px;
+}
+.about-right{
+    width: 70%;
+    border-left: 1px #70757a solid ;
+    padding-left: 15px;
+}
+
+.tittles{
+    color: #202124;
+    font-size: 18px;
+    line-height: 24px;
+    font-family: arial,sans-serif
+}
+
+.paragraphs{
+    line-height: 1.58;
+    color: #4d5156;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    margin-bottom: 30px;
+}
+.link{
+    text-decoration: none;
 }
