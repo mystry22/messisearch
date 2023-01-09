@@ -273,3 +273,18 @@
     text-decoration: none;
     color: #1a0dab;
 }
+
+.top-stories-body{
+    padding-left: 50px;
+}
+.top-stories-items{
+    width: 100%;
+    display: flex;
+}
+
+.top-stories-items-left{
+    width: 50%;
+}
+.top-stories-items-right{
+    width: 50%;
+}
